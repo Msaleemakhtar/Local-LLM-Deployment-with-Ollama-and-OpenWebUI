@@ -101,7 +101,7 @@ You should see the model initialization and any requests being processed. This w
 
 ### Step 5: Model Setting
 
-![Model Setting](model_seeting.png "Model Setting")
+![Model Setting](model_seting.png "Model Setting")
 
 ## Step 6: Stop the Containers
 
